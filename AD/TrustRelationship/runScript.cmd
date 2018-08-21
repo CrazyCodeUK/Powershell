@@ -1,0 +1,1 @@
+powershell -executionpolicy bypass -file "\\consus\CommServIT\Projects\Powershell\TrustRelationship\RepairTrust.ps1"
